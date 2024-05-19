@@ -13,7 +13,7 @@ http://localhost:8000/docs#/default/form_create_iris_post
 #### Data Set to train model
     IRIS Dataset from scikit-learn
 
-### Deploy to Azure App Service:
+### Docker:
 Docker image at hub: venmaum/ml-simple-app
 
 ### References:
