@@ -1,6 +1,6 @@
-# 🌸 ML Model Integration and Deployment
+# ML Model Integration and Deployment
 
-A complete machine learning pipeline that trains a DecisionTreeClassifier on the Iris dataset, exposes it as a REST API using FastAPI, and deploys it as an Azure Function for scalable predictions.
+Supervised(DecisionTreeClassifier) machine learning algorithm, that trains on the Iris dataset, exposes it as a REST API using FastAPI, and deploys it as an Azure Function for scalable predictions.
 
 ## 🚀 Features
 
@@ -185,7 +185,6 @@ curl -X POST "http://localhost:8000/predict" \
 - [Scikit-learn Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [Azure Functions Python Guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python)
-- [Docker Documentation](https://docs.docker.com/)
 
 ## 🏷️ Tags
 
